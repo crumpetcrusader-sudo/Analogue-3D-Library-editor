@@ -1,4 +1,5 @@
 # Analogue 3D Labels.db Editor
+based on findings by http://a3d-tools.christopher-matthes.de/
 
 A GUI tool for viewing and editing the `labels.db` file from your Analogue 3D console.
 
